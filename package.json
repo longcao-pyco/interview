@@ -1,0 +1,14 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "author": "LongCao",
+  "license": "ISC"
+}
